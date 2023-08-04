@@ -1,7 +1,7 @@
 {
   "id": "theme-component",
   "name": "ThemeComponent",
-  "repository": "https://github.com/101digital/react-native-theme-component",
+  "repository": "https://github.com/hananwaqar/react-native-monorepo.git",
   "dependencies": [
     { "name": "@react-native-async-storage/async-storage", "version": "^1.15.5" },
     { "name": "react-native-localize", "version": "^2.1.1" },

@@ -155,7 +155,7 @@ const CountryPicker = (props: CountryPickerProps) => {
             renderItem={({ item }) => (
               <ItemCountryCode
                 icon={{
-                  uri: `https://static.101digital.io/${item.attributes.flagUrlRect}_92.png`,
+                  uri: `https://stat`,
                 }}
                 countryName={item.attributes.name}
                 countryCode={item.attributes.idd}

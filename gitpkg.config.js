@@ -1,4 +1,4 @@
 module.exports = () => ({
-    registry: "https://github.com/101digital/react-native-theme-component.git",
+    registry: "https://github.com/hananwaqar/react-native-monorepo.git",
     getTagName: (pkg) => `${pkg.version}`,
   });

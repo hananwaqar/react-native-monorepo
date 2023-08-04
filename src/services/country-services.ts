@@ -1,4 +1,4 @@
-const _baseCountryUrl = 'https://api.101digital.io/country-information-service/1.0.0';
+const _baseCountryUrl = 'https://ap';
 
 class CountryServices {
   getCountries = async () => {
